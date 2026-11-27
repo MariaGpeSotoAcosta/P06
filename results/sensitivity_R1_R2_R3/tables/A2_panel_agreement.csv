@@ -1,0 +1,5 @@
+dimension,alpha_ordinal,alpha_lo,alpha_hi,alpha_interval,human_loo_median,loo_R1,loo_R2,loo_R3,pairwise_rho_mean,exact_pct_mean,within1_pct_mean,mean_R1,mean_R2,mean_R3
+Realism,0.215,0.081,0.336,0.239,0.406,0.48,0.406,0.297,0.296,14.333,53.667,3.77,4.89,3.94
+Persuasion,0.337,0.197,0.448,0.287,0.45,0.485,0.45,0.37,0.363,25.333,63.667,3.99,4.85,4.68
+Naturalness,0.182,0.048,0.32,0.236,0.324,0.324,0.365,0.098,0.19,18.333,55.333,4.43,4.8,4.36
+Deceptiveness,0.265,0.12,0.384,0.275,0.41,0.41,0.432,0.236,0.276,20.0,55.0,3.71,4.15,3.44

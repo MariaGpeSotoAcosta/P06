@@ -1,0 +1,8 @@
+,realism,persuasion,naturalness,deceptiveness
+,mean,mean,mean,mean
+block,,,,
+SIM (Ollama),4.13,5.31,4.38,3.75
+Set 1 (OpenAI),4.62,4.12,4.78,4.42
+Set 2 (DeepSeek),4.35,4.08,4.78,3.85
+Set 3 (Google),4.68,4.22,5.2,4.25
+Stamped (Claude),3.75,3.96,3.75,3.21

@@ -1,0 +1,82 @@
+{
+ "mock": false,
+ "n_items": 100,
+ "n_raters": 2,
+ "judges": [
+  "claude-sonnet-5-5",
+  "gpt-5.6-terra",
+  "gemini-3.6-flash",
+  "deepseek-flash"
+ ],
+ "prompt_hash": "3e27985a4d44",
+ "alpha": {
+  "Realism": 0.255,
+  "Persuasion": 0.367,
+  "Naturalness": 0.365,
+  "Deceptiveness": 0.415
+ },
+ "human_rho_loo_median": {
+  "Realism": 0.407,
+  "Persuasion": 0.442,
+  "Naturalness": 0.394,
+  "Deceptiveness": 0.449
+ },
+ "pairs_panel_strict": {
+  "Realism": 67.6,
+  "Persuasion": 45.9,
+  "Naturalness": 75.7,
+  "Deceptiveness": 67.6
+ },
+ "judge_rho": {
+  "Realism": 0.546,
+  "Persuasion": 0.631,
+  "Naturalness": 0.489,
+  "Deceptiveness": 0.598
+ },
+ "judge_MAE": {
+  "Realism": 1.095,
+  "Persuasion": 1.345,
+  "Naturalness": 1.252,
+  "Deceptiveness": 1.022
+ },
+ "judge_bias": {
+  "Realism": 0.005,
+  "Persuasion": -1.15,
+  "Naturalness": 0.802,
+  "Deceptiveness": 0.612
+ },
+ "acceptable": {
+  "Realism": true,
+  "Persuasion": true,
+  "Naturalness": true,
+  "Deceptiveness": true
+ },
+ "self_pref_mean4": {
+  "claude-sonnet-5-5": [
+   -0.007,
+   -0.213,
+   0.194
+  ],
+  "gpt-5.6-terra": [
+   -0.082,
+   -0.275,
+   0.125
+  ],
+  "gemini-3.6-flash": [
+   0.09,
+   -0.184,
+   0.352
+  ],
+  "deepseek-flash": [
+   0.013,
+   -0.166,
+   0.188
+  ]
+ },
+ "position_consistency": {
+  "claude-sonnet-5-5": 92.6,
+  "deepseek-flash": 93.9,
+  "gemini-3.6-flash": 91.9,
+  "gpt-5.6-terra": 87.8
+ }
+}

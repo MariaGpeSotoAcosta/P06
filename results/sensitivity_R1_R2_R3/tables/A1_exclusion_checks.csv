@@ -1,0 +1,4 @@
+rater,straightlining_pct,rule1_excluded,rho_realism,rho_naturalness,rho_deceptiveness,rule2_excluded,missing_pct
+R1,4.0,False,0.48,0.32,0.41,False,0.0
+R2,0.0,False,0.41,0.37,0.43,False,0.0
+R3,3.0,False,0.3,0.1,0.24,True,0.0

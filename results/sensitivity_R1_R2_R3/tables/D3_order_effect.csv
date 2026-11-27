@@ -1,0 +1,5 @@
+judge_id,rho_order_resid
+claude-sonnet-5-5,-0.004
+deepseek-flash,-0.005
+gemini-3.6-flash,0.001
+gpt-5.6-terra,-0.027

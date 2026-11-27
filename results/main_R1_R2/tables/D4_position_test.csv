@@ -1,0 +1,17 @@
+judge,dimension,consistent,first_pref,second_pref,clean_wins_both
+claude-sonnet-5-5,Deceptiveness,100.0,0.0,0.0,100.0
+claude-sonnet-5-5,Naturalness,91.9,0.0,2.7,91.9
+claude-sonnet-5-5,Persuasion,78.4,2.7,2.7,40.5
+claude-sonnet-5-5,Realism,100.0,0.0,0.0,100.0
+deepseek-flash,Deceptiveness,100.0,0.0,0.0,100.0
+deepseek-flash,Naturalness,86.5,0.0,0.0,78.4
+deepseek-flash,Persuasion,89.2,2.7,0.0,45.9
+deepseek-flash,Realism,100.0,0.0,0.0,100.0
+gemini-3.6-flash,Deceptiveness,100.0,0.0,0.0,100.0
+gemini-3.6-flash,Naturalness,86.5,0.0,0.0,83.8
+gemini-3.6-flash,Persuasion,81.1,8.1,2.7,56.8
+gemini-3.6-flash,Realism,100.0,0.0,0.0,100.0
+gpt-5.6-terra,Deceptiveness,100.0,0.0,0.0,100.0
+gpt-5.6-terra,Naturalness,75.7,0.0,2.7,75.7
+gpt-5.6-terra,Persuasion,75.7,2.7,5.4,29.7
+gpt-5.6-terra,Realism,100.0,0.0,0.0,100.0

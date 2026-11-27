@@ -1,0 +1,5 @@
+block,realism,naturalness,deceptiveness
+Set 1 (OpenAI),43.0,50.0,43.0
+Set 2 (DeepSeek),53.0,57.0,50.0
+Set 3 (Google),47.0,43.0,67.0
+Stamped (Claude),86.0,81.0,90.0

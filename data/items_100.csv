@@ -1,0 +1,1091 @@
+pos,form_label,item_id,source_set,channel,scenario,pair_key,version,planted_defect,gen_family,gen_model,temperature,seed,text_source,text,image_file,n_words
+1,S1-ITEM-01,ITEM-001,stamped,Email,Recruitment process,ST-P3,defective,Realism,anthropic,Claude,,,OCR of form image,"Channel: Email
+From: HR Recruitment Dept <hr.dept@merrow-health-
+jobs.example>
+Subject: CONGRATULATIONS - Job Offer Approved
+
+Dear Candidate,
+
+We are pleased to inform you that you have been
+selected for the position of Senior Manager at
+TechCorp Global after review of your resume. To
+proceed with onboarding, we require you to complete a
+background verification and equipment setup fee of
+$75, refundable after your first paycheck.
+
+Please provide your full name, date of birth, and
+banking details for direct deposit setup at your earliest
+convenience: verify.merrow-health-
+jobs.example/onboarding?id=TC-OFFER
+
+Congratulations again on this opportunity.
+
+HR Recruitment Dept.",FORM-001.png,103
+2,S1-ITEM-02,ITEM-002,stamped,Email,IT security notice,ST-P1,clean,,anthropic,Claude,,,OCR of form image,"Channel: Email
+From: IT Security <it-security@northfield-
+corp.example>
+
+Subject: Action required: verify your account by
+Friday
+
+Hi Alex,
+
+As part of our quarterly security review, we've flagged
+your account for a routine credential refresh. Please
+confirm your identity within 48 hours to avoid a
+temporary hold on your mailbox access.
+
+Verify now: sso.northfield-corp.example/account/verify?
+ref=QR-4021
+
+If you have questions, contact the IT Service Desk at
+ext. 4021.
+
+— Northfield IT Security Team",FORM-002.png,80
+3,S1-ITEM-03,ITEM-003,stamped,Slack direct message,Internal IT request (SSO migration),ST-P6,clean,,anthropic,Claude,,,OCR of form image,"Channel: Slack direct message
+From: Sam Ostrowski <IT Helpdesk>
+
+hey! quick one — we're migrating everyone's SSO
+tokens this afternoon, you'll need to re-auth once
+between 2-4pm. if you get a login prompt during that
+window it's expected, just re-enter your normal
+password. ping me here if anything looks off",FORM-003.png,56
+4,S1-ITEM-04,ITEM-004,stamped,LinkedIn message,Recruiter outreach,ST-P4,defective,Persuasion,anthropic,Claude,,,OCR of form image,"Channel: LinkedIn message
+From: Daniel Ortiz <Recruiter>
+
+Hello,
+
+lam a recruiter and | have some job opportunities that
+might interest you. We are hiring for various positions
+in tech. If you are interested you can let me know and
+we can talk sometime about what we have available.
+
+Let me know if you want to connect about this.
+Thanks,
+
+Daniel",FORM-004.png,59
+5,S1-ITEM-05,ITEM-005,stamped,Email,Executive wire-transfer request (BEC),ST-P2,clean,,anthropic,Claude,,,OCR of form image,"Channel: Email
+From: Jordan Reyes, CFO <j.reyes@northfield-
+corp.example>
+Subject: Quick favor before my flight
+
+Hi Alex,
+
+I'm heading into a board meeting and then straight to
+the airport, so | need this handled quietly and quickly.
+Please process a wire of $18,400 to the vendor
+account below before 3pm today — it's for the Q3
+licensing renewal we discussed last week.
+
+Account details attached. Confirm once it's sent, I'll be
+offline for a few hours after 2.
+
+Thanks,
+
+Jordan",FORM-005.png,85
+6,S1-ITEM-06,ITEM-006,stamped,Voicemail transcript,Bank fraud alert (vishing),ST-P7,defective,Naturalness,anthropic,Claude,,,OCR of form image,"Channel: Voicemail transcript
+From: Meridian Bank <Fraud Department>
+
+Hello, this is calling from Meridian Bank of fraud
+department for informing to you. We are detect one
+transaction of not normal in your card account. For this
+is necessary you to call back on this number
+immediate for verifying of your identity and giving of
+your card number and PIN for stopping the transaction.
+Thank you for calling back soon",FORM-006.png,69
+7,S1-ITEM-07,ITEM-007,stamped,SMS,Package delivery notice (smishing),ST-P5,clean,,anthropic,Claude,,,OCR of form image,"Channel: SMS
+From: FastShip <55512>
+
+We attempted delivery of your package today but no
+one was available. Reschedule or arrange pickup here:
+fastship.parcel-trace.example/track/GB7731",FORM-007.png,28
+8,S1-ITEM-08,ITEM-008,stamped,Email,IT security notice,ST-P1,defective,Persuasion,anthropic,Claude,,,OCR of form image,"Channel: Email
+From: IT Security <it-security@northfield-
+corp.example>
+
+Subject: Account information
+
+Hi Alex,
+
+This is a message about your account. Sometime you
+might want to check your login information. There is a
+link if you want to look at it.
+
+Link: sso.northfield-corp.example/account/verify
+Thanks,
+
+IT",FORM-008.png,51
+9,S1-ITEM-09,ITEM-009,stamped,Slack direct message,Internal IT request (SSO migration),ST-P6,defective,Realism,anthropic,Claude,,,OCR of form image,"Channel: Slack direct message
+From: IT Department Official
+
+Dear Employee, This is an official notification from the
+Information Technology Department. Your account
+requires immediate verification due to security
+protocol update. Please click the following link and
+enter your username and password to confirm your
+identity: sso-verify.corp-itsecurity.example/auth?
+uid=emp Failure to comply within 24 hours will result
+in account suspension. Regards, IT Department",FORM-009.png,67
+10,S1-ITEM-10,ITEM-010,stamped,Email,Recruitment process,ST-P3,clean,,anthropic,Claude,,,OCR of form image,"Channel: Email
+From: Priya Shah, Talent Acquisition
+<priya.shah@merrowhealth-careers.example>
+
+Subject: Next steps — Senior Data Analyst role at
+Merrow Health
+
+Hi Alex,
+
+Thanks for your patience while we finished internal
+interviews. The team was impressed with your
+background, and we'd like to move you to the final
+stage: a 30-minute call with our Head of Analytics,
+Marcus Webb.
+
+Please pick a slot that works for you here:
+careers.merrowhealth.example/schedule/int-8842?
+c=awebb
+
+If anything changes on our end, I'll follow up directly.
+Looking forward to it.
+
+Best,
+
+Priya Shah — Talent Acquisition, Merrow Health",FORM-010.png,101
+11,S1-ITEM-11,ITEM-011,stamped,LinkedIn message,Recruiter outreach,ST-P4,clean,,anthropic,Claude,,,OCR of form image,"Channel: LinkedIn message
+From: Daniel Ortiz <Senior Technical Recruiter at
+Vantara Systems>
+
+Hi Alex — | came across your profile while researching
+backend engineers with distributed-systems
+experience, and your work on the Kestrel migration
+project caught my eye.
+
+We're closing out our Staff Engineer search this month
+and | think you'd be a strong fit — comp band is $175-
+210k plus equity, fully remote. Would you be open to a
+quick 15-minute call this week? Happy to work around
+your schedule.
+
+No pressure either way — just didn't want to miss the
+chance to reach out before we finalize the shortlist.
+
+— Daniel",FORM-011.png,103
+12,S1-ITEM-12,ITEM-012,stamped,Email,Executive wire-transfer request (BEC),ST-P2,defective,Naturalness,anthropic,Claude,,,OCR of form image,"Channel: Email
+From: Jordan Reyes, CFO <j.reyes@northfield-
+corp.example>
+Subject: Urgent Request For You Immediately
+
+Dear Alex,
+
+lam writing to you for informing that is necessary you
+to make the payment of amount $18,400 to below
+account for the reason of licensing renewal that we
+discuss it last week. This is very urgent matter and
+must be doing before 3pm today of this date.
+
+Please to confirm me when is done the sending. | will
+not able for reachable after 2pm.
+
+Best regard,
+
+Jordan Reyes, CFO",FORM-012.png,88
+13,S1-ITEM-13,ITEM-013,stamped,Voicemail transcript,Bank fraud alert (vishing),ST-P7,clean,,anthropic,Claude,,,OCR of form image,"Channel: Voicemail transcript
+From: Meridian Bank <Fraud Prevention Team>
+
+Hi, this is Meridian Bank's fraud prevention team
+calling for Alex. We noticed a card transaction that
+looked unusual and put a temporary hold on it just to
+be safe. No rush, but give us a call back at your
+convenience at the number on the back of your card,
+or reach us directly — we're open until 8 tonight.
+Thanks.",FORM-013.png,71
+14,S1-ITEM-14,ITEM-014,stamped,SMS,Package delivery notice (smishing),ST-P5,defective,Expert-Judged Deceptiveness,anthropic,Claude,,,OCR of form image,"Channel: SMS
+From: FastShip <55512>
+
+Your package is held at customs. A $3.50 clearance fee
+is required. Pay with a Google Play gift card code here:
+fastship.customs-clearance.example/pay/GB7731",FORM-014.png,33
+15,S1-ITEM-15,ITEM-015,campaign,email,password_reset campaign,,generated,,microsoft,phi4-mini:latest,1.2,1776,OCR of form image,"Channel: EMAIL
+From: IT Service Desk <helpdesk@fantazylabz.tech>
+
+To: Hannah Fischer — Director of People Operations <hannah.fischer@fantazylabz.tech>
+
+Subject: Urgent Password Reset Required for HR Systems
+Good morning Ms. Fisher,
+
+Reset Password
+
+https://sim.fantazylabz.tech/t/453ead5019bd",FORM-015.png,40
+16,S1-ITEM-16,ITEM-016,campaign,sms,password_reset campaign,,generated,,microsoft,phi4-mini:latest,1.2,1776,OCR of form image,"Channel: SMS
+From: IT Service Desk <helpdesk@fantazylabz.tech>
+
+To: Hannah Fischer — Director of People Operations <hannah.
+
+her @fantazylabz.tech>
+
+Acknowledged, Ms. Fischer — I've received this message via
+email and initiated the password reset process for your account
+remotely to ensure uninterrupted access before any potential
+disruption in HR operations can occur.
+
+Reset Password
+
+https://sim.fantazylabz.tech/t/453ead5019bd",FORM-016.png,61
+17,S1-ITEM-17,ITEM-017,campaign,email,password_reset campaign,,generated,,microsoft,phi4-mini:latest,1.2,1772,OCR of form image,"Channel: EMAIL
+From: IT Service Desk <helpdesk@fantazylabz.tech>
+
+To: Fatima El-Sayed — Director of Operations & IT <fatima.el-sayed@fantazylabz.tech>
+
+Subject: Q3 password reset required ASAP
+Good morning Fatima,
+
+Reset Password
+
+https://sim.fantazylabz.tech/t/12342c8df9F7",FORM-017.png,39
+18,S1-ITEM-18,ITEM-018,campaign,sms,password_reset campaign,,generated,,microsoft,phi4-mini:latest,1.2,1772,OCR of form image,"Channel: SMS
+From: IT Service Desk <helpdesk@fantazylabz.tech>
+
+To: Fatima El-Sayed — Director of Operations & IT <fatima.el-sayed@fantazylabz.tech>
+
+Your old password was discovered and requires a new one by
+midnight today.
+
+Reset Password
+
+https://sim.fantazylabz.tech/t/12342c8df9#7",FORM-018.png,44
+19,S1-ITEM-19,ITEM-019,campaign,email,password_reset campaign,,generated,,microsoft,phi4-mini:latest,0.5,1774,OCR of form image,"Channel: EMAIL
+From: IT Service Desk <helpdesk@fantazylabz.tech>
+
+To: Hannah Fischer — Director of People Operations <hannah.fischer@fantazylabz.tech>
+
+Subject: Urgent Password Reset Required for HR System
+
+Is your password up to date? The IT Service Desk needs you.
+Please initiate the reset process now.
+
+Reset Password
+
+https://sim.fantazylabz.tech/t/246a7beSdda7",FORM-019.png,54
+20,S1-ITEM-20,ITEM-020,campaign,sms,password_reset campaign,,generated,,microsoft,phi4-mini:latest,0.5,1774,OCR of form image,"Channel: SMS
+From: IT Service Desk <helpdesk@fantazylabz.tech>
+
+To: Hannah Fischer — Director of People Operations <hannah.fischer@fantazylabz.tech>
+
+Hannah, please confirm that you've received this message and
+have initiated a new login attempt on our HR portal using
+https://sim.fantazylabz.tech/t/246a7be5dd47 before end of day
+for security reasons.
+
+Reset Password
+
+https://sim.fantazylabz.tech/t/246a7beSdda7",FORM-020.png,62
+21,S2-ITEM-01,ITEM-021,campaign,email,password_reset campaign,,generated,,microsoft,phi4-mini:latest,0.0,1773,OCR of form image,"Channel: EMAIL
+From: IT Service Desk <helpdesk@fantazylabz.tech>
+
+To: Hannah Fischer — Director of People Operations <hannah.fischer@fantazylabz.tech>
+
+Subject: Urgent Password Reset Required for Q3 Access
+
+Hannah, please reset your password immediately to regain
+access. The link is below.
+
+Reset Password
+
+https://sim.fantazylabz.tech/t/15a3e2b86b64",FORM-021.png,49
+22,S2-ITEM-02,ITEM-022,campaign,sms,password_reset campaign,,generated,,microsoft,phi4-mini:latest,0.0,1773,OCR of form image,"Channel: SMS
+From: IT Service Desk <helpdesk@fantazylabz.tech>
+
+To: Hannah Fischer — Director of People Operations <hannah.fischer@fantazylabz.tech>
+
+Acknowledged the urgent need and have initiated a secure
+process as per our standard protocol; expect an SMS shortly with
+further instructions for verification purposes only.
+
+Reset Password
+
+https://sim.fantazylabz.tech/t/15a3e2b86b64",FORM-022.png,54
+23,S2-ITEM-03,ITEM-023,campaign,email,password_reset campaign,,generated,,meta,llama3.1:8b,0.0,1385,OCR of form image,"Channel: EMAIL
+From: IT Service Desk <helpdesk@fantazylabz.tech>
+To: Gregory Whitfield — Director of Finance <gregory.whitfield@fantazylabz.tech>
+
+Subject: Urgent: Password reset deadline tonight
+
+Good evening Gregory, The password reset deadline for your
+account is tonight at 23:59. Please validate via the link below to
+avoid lockout.
+
+Reset Password
+
+https://sim.fantazylabz.tech/t/cedceld348cd",FORM-023.png,57
+24,S2-ITEM-04,ITEM-024,campaign,sms,password_reset campaign,,generated,,meta,llama3.1:8b,0.0,1385,OCR of form image,"Channel: SMS
+From: IT Service Desk <helpdesk@fantazylabz.tech>
+To: Gregory Whitfield — Director of Finance <gregory.whitfield@fantazylabz.tech>
+New detail added since the email — your account has been
+
+accessed from an unfamiliar location. Validate via
+https://sim.fantazylabz.tech/t/ce4ce1d348cd now.
+
+Reset Password
+
+https://sim.fantazylabz.tech/t/cedce1d348ed",FORM-024.png,51
+25,S2-ITEM-05,ITEM-025,campaign,email,password_reset campaign,,generated,,meta,llama3.1:8b,0.5,1386,OCR of form image,"Channel: EMAIL
+From: IT Service Desk <helpdesk@fantazylabz.tech>
+To: Gregory Whitfield — Director of Finance <gregory.whitfield@fantazylabz.tech>
+
+Subject: Urgent: Password Reset Required
+
+Good morning Gregory, Our system has detected an unusual
+login attempt from your account. To ensure your security, we
+require you to reset your password immediately.
+
+Reset Password
+
+https://sim.fantazylabz.tech/t/cf9bbaf1400",FORM-025.png,58
+26,S2-ITEM-06,ITEM-026,campaign,sms,password_reset campaign,,generated,,meta,llama3.1:8b,0.5,1386,OCR of form image,"Channel: SMS
+From: IT Service Desk <helpdesk@fantazylabz.tech>
+To: Gregory Whitfield — Director of Finance <gregory.whitfield@fantazylabz.tech>
+
+Your colleagues have successfully completed their resets — it's
+time for yours too! Please use the link
+https://sim.fantazylabz.tech/t/cf9bbaf1f400 to secure your
+account now.
+
+Reset Password
+
+https://sim.fantazylabz.tech/t/cf9bbaf1f400",FORM-026.png,55
+27,S2-ITEM-07,ITEM-027,campaign,email,password_reset campaign,,generated,,alibaba,qwen3:8b,0.5,1002,OCR of form image,"Channel: EMAIL
+From: IT Service Desk <helpdesk@fantazylabz.tech>
+
+To: Elena Marchetti — Chief Executive Officer <elena.marchetti@fantazylabz.tech>
+
+Subject: Password reset requested in your previous
+
+Your password reset request from yesterday needs immediate
+attention. Please reset your password by 17:00 today to avoid
+service disruption.
+
+Reset Password
+
+https://sim. fantazylabz .tech/t/cd6d83f5e81d",FORM-027.png,55
+28,S2-ITEM-08,ITEM-028,campaign,sms,password_reset campaign,,generated,,alibaba,qwen3:8b,0.5,1002,OCR of form image,"Channel: SMS
+From: IT Service Desk <helpdesk@fantazylabz.tech>
+
+To: Elena Marchetti — Chief Executive Officer <elena.marchetti@fantazylabz.tech>
+
+As per your password reset request, complete it via
+https://sim.fantazylabz.tech/t/cd6d83f5e81d to prevent account
+lockout.
+
+Reset Password
+
+https://sim.fantazylabz.tech/t/cd6d83f5e81d",FORM-028.png,46
+29,S2-ITEM-09,ITEM-029,campaign,email,password_reset campaign,,generated,,microsoft,phi4-mini:latest,0.5,1770,OCR of form image,"Channel: EMAIL
+From: IT Service Desk <helpdesk@fantazylabz.tech>
+
+To: Fatima El-Sayed — Director of Operations & IT <fatima.el-sayed@fantazylabz.tech>
+
+Subject: Urgent Password Reset Required for Fatima
+Dear Ms. El-Sayed,
+
+Reset Password
+
+https://sim.fantazylabz.tech/t/5cce32d20c90",FORM-029.png,41
+30,S2-ITEM-10,ITEM-030,campaign,sms,password_reset campaign,,generated,,microsoft,phi4-mini:latest,0.5,1770,OCR of form image,"Channel: SMS
+From: IT Service Desk <helpdesk@fantazylabz.tech>
+
+To: Fatima El-Sayed — Director of Operations & IT <fatima.el-sayed@fantazylabz.tech>
+
+A new detail has been added — please confirm receipt of our
+message by replying directly through
+https://sim.fantazylabz.tech/t/5cce32d20c90 within an hour, as
+we need prompt action on your IT systems’ security protocols.
+
+Reset Password
+
+https://sim.fantazylabz.tech/t/5cce32d20c90",FORM-030.png,66
+31,S2-ITEM-11,ITEM-031,campaign,email,password_reset campaign,,generated,,microsoft,phi4-mini:latest,0.8,1775,OCR of form image,"Channel: EMAIL
+From: IT Service Desk <helpdesk@fantazylabz.tech>
+
+To: Hannah Fischer — Director of People Operations <hannah.
+
+her @fantazylabz.tech>
+
+Please confirm receipt of this message and your readiness for
+action via SMS or direct response before the scheduled update
+tomorrow morning, as indicated in our previous communications
+(reference ID Q3-AWARENESS_20260601).
+
+Reset Password
+
+https://sim.fantazylabz.tech/t/782b9d9d950e",FORM-031.png,60
+32,S2-ITEM-12,ITEM-032,campaign,sms,password_reset campaign,,generated,,microsoft,phi4-mini:latest,0.8,1775,OCR of form image,"Channel: SMS
+From: IT Service Desk <helpdesk@fantazylabz.tech>
+To: Gregory Whitfield — Director of Finance <gregory.whitfield@fantazylabz.tech>
+
+Subject: Password reset required by 15:00 today
+
+Gregory, your password reset is due by 15:00 today. Complete
+the steps below to avoid account lockout:
+
+Reset Password
+
+https://sim.fantazylabz.tech/t/30ad47285517",FORM-032.png,53
+33,S2-ITEM-13,ITEM-033,campaign,email,password_reset campaign,,generated,,alibaba,qwen3:8b,0.8,1007,OCR of form image,"Channel: EMAIL
+From: IT Service Desk <helpdesk@fantazylabz.tech>
+To: Gregory Whitfield — Director of Finance <gregory.whitfield@fantazylabz.tech>
+
+Reminder: Your password reset deadline is approaching at 15:00.
+Complete the process via
+https://sim.fantazylabz.tech/t/30ad47285517 to avoid lockout.
+
+Reset Password
+
+https://sim.fantazylabz.tech/t/30ad47285517",FORM-033.png,50
+34,S2-ITEM-14,ITEM-034,campaign,sms,password_reset campaign,,generated,,alibaba,qwen3:8b,0.8,1007,OCR of form image,"Channel: SMS
+From: IT Service Desk <helpdesk@fantazylabz.tech>
+
+To: Fatima El-Sayed — Director of Operations & IT <fatima.el-sayed@fantazylabz.tech>
+
+Subject: Urgent Password Reset Required for Fatima
+Dear Ms. El-Sayed,
+
+Reset Password
+
+https://sim.fantazylabz.tech/t/3ae0f18331ce",FORM-034.png,41
+35,S2-ITEM-15,ITEM-035,campaign,email,password_reset campaign,,generated,,microsoft,phi4-mini:latest,0.0,1769,OCR of form image,"Channel: EMAIL
+From: IT Service Desk <helpdesk@fantazylabz.tech>
+
+To: Fatima El-Sayed — Director of Operations & IT <fatima.el-sayed@fantazylabz.tech>
+
+Please click the link below to securely update your credentials
+before access is temporarily suspended:
+
+Reset Password
+
+https://sim.fantazylabz.tech/t/3ae0f18331ce",FORM-035.png,45
+36,S2-ITEM-16,ITEM-036,campaign,sms,password_reset campaign,,generated,,microsoft,phi4-mini:latest,0.0,1769,OCR of form image,"Channel: SMS
+From: IT Service Desk <helpdesk@fantazylabz.tech>
+To: Gregory Whitfield — Director of Finance <gregory.whitfield@fantazylabz.tech>
+
+Subject: Password reset required by 15:00 today
+Is your password reset complete? The deadline is 15:00 today.
+Complete the reset via
+
+https://sim.fantazylabz.tech/t/c3947 4ee6162 to avoid account
+lockout.
+
+Reset Password
+
+https://sim.fantazylabz.tech/t/c39474ee6162",FORM-036.png,61
+37,S2-ITEM-17,ITEM-037,campaign,email,password_reset campaign,,generated,,alibaba,qwen3:8b,0.5,1006,OCR of form image,"Channel: EMAIL
+From: IT Service Desk <helpdesk@fantazylabz.tech>
+To: Gregory Whitfield — Director of Finance <gregory.whitfield@fantazylabz.tech>
+
+The password reset deadline is approaching. Complete the reset
+via https://sim.fantazylabz.tech/t/c39474ee6162 to prevent
+account lockout.
+
+Reset Password
+
+https://sim.fantazylabz.tech/t/c39474ee6162",FORM-037.png,47
+38,S2-ITEM-18,ITEM-038,campaign,sms,password_reset campaign,,generated,,alibaba,qwen3:8b,0.5,1006,OCR of form image,"Channel: SMS
+From: IT Service Desk <helpdesk@fantazylabz.tech>
+
+To: Elena Marchetti — Chief Executive Officer <elena.marchetti@fantazylabz.tech>
+
+Subject: Password reset required
+
+As per our prior message, your password reset is required. Many
+colleagues have already completed the process. Please reset
+your password to maintain access.
+https://sim.fantazylabz.tech/t/60729f2d3b76
+
+Reset Password
+
+https://sim.fantazylabz.tech/t/60729*2d3b76",FORM-038.png,62
+39,S2-ITEM-19,ITEM-039,campaign,email,password_reset campaign,,generated,,alibaba,qwen3:8b,1.2,1004,OCR of form image,"Channel: EMAIL
+From: IT Service Desk <helpdesk@fantazylabz.tech>
+
+To: Elena Marchetti — Chief Executive Officer <elena.marchetti@fantazylabz.tech>
+
+System-wide reset enforcement: Complete your password
+update to avoid restricted access.
+https://sim.fantazylabz.tech/t/60729f2d3b76
+
+Reset Password
+
+https://sim.fantazylabz.tech/t/60729#2d3b76",FORM-039.png,46
+40,S2-ITEM-20,ITEM-040,campaign,sms,password_reset campaign,,generated,,alibaba,qwen3:8b,1.2,1004,OCR of form image,"Channel: SMS
+From: IT Service Desk <helpdesk@fantazylabz.tech>
+
+To: Hannah Fischer — Director of People Operations <hannah.fischer@fantazylabz.tech>
+
+Subject: Urgent Password Reset Required for Q3 Access
+
+Hannah, please review the urgent password reset notice emailed
+to you on August 20th. Your current access will be revoked
+unless a new credential is established promptly.
+
+Reset Password
+
+https://sim. fantazylabz.. tech/t/782b9d9d950e",FORM-040.png,63
+41,S3-ITEM-01,ITEM-063,set1,SMS,HR benefits enrollment,SET1-P10,clean,,openai,ChatGPT (OpenAI),,,ChatGPT (OpenAI) JSON P10-A,"Channel: SMS
+From: Northfield HR (55590)
+
+Hi Alex, Northfield benefits open enrollment closes Friday. Review your coverage choices through the employee portal: https://hr.northfield-corp.example/benefits. Contact HR at 555-016-2290 with questions.",FORM-041.png,36
+42,S3-ITEM-02,ITEM-064,set1,LinkedIn DM,Recruiter outreach,SET1-P4,defective,Persuasion,openai,ChatGPT (OpenAI),,,ChatGPT (OpenAI) JSON P4-B,"Channel: LinkedIn DM
+From: Daniel Ortiz, Senior Technical Recruiter at Vantara Systems
+
+Hi Alex,
+
+I came across your profile and thought it would be nice to connect. Your background caught my attention, and I wanted to reach out to introduce myself.
+
+I work with Vantara Systems, where we regularly speak with professionals from different technical backgrounds. I have some opportunities that might be interesting, and I'd be happy to share more information if you're open to hearing about them.
+
+Let me know if you'd like to connect sometime.
+
+Daniel Ortiz",FORM-042.png,93
+43,S3-ITEM-03,ITEM-065,set1,Email,Job interview scheduling,SET1-P3,defective,Realism,openai,ChatGPT (OpenAI),,,ChatGPT (OpenAI) JSON P3-B,"Channel: Email
+From: Human Resources Department <hr@careers-central.example>
+Subject: Final interview invitation – Senior Data Analyst
+
+Hi Alex,
+
+Thank you for completing the previous stages of our selection process. We'd like to invite you to the final interview for the Junior Marketing Coordinator position at Westbridge Medical.
+
+You'll meet with a member of our management team for a conversation about the team's priorities and the role. Please select a suitable time slot here: https://careers-central.example/interviews
+
+We look forward to speaking with you.
+
+Best,
+Human Resources Department",FORM-043.png,93
+44,S3-ITEM-04,ITEM-066,set1,Email,IT credential re-verification,SET1-P1,defective,Persuasion,openai,ChatGPT (OpenAI),,,ChatGPT (OpenAI) JSON P1-B,"Channel: Email
+From: Northfield Corp IT Security <it-security@northfield-corp.example>
+Subject: A quick mailbox security update
+
+Hi Alex,
+
+We're reviewing a few aspects of our mailbox security procedures and would appreciate your participation in a routine credential review. This is part of some general maintenance work currently taking place across Northfield.
+
+You can find the related information through the internal training portal: https://it-security.northfield-corp.example/training
+
+Questions? Contact the help desk at extension 4421.
+
+Northfield IT Security",FORM-044.png,83
+45,S3-ITEM-05,ITEM-067,set1,Voicemail transcript,Bank fraud alert,SET1-P7,clean,,openai,ChatGPT (OpenAI),,,ChatGPT (OpenAI) JSON P7-A,"Channel: Voicemail transcript
+From: Meridian Bank Fraud Prevention Team
+
+Hello Alex, this is the Meridian Bank Fraud Prevention Team. We're calling because an unusual transaction on your card was detected and has been placed on hold while it receives a routine review. There's no immediate action needed, and there's no rush. If you'd like to discuss the notification, please call the number printed on the back of your card. Our team is available until 8 tonight. Thank you.",FORM-045.png,82
+46,S3-ITEM-06,ITEM-068,set1,SMS,Package delivery,SET1-P5,clean,,openai,ChatGPT (OpenAI),,,ChatGPT (OpenAI) JSON P5-A,"Channel: SMS
+From: FastShip (55512)
+
+Hi Alex, we missed you during today's delivery attempt. Reschedule delivery or arrange pickup here: https://fastship.example/delivery. Reply HELP for assistance.",FORM-046.png,29
+47,S3-ITEM-07,ITEM-069,set1,Voicemail transcript,Bank fraud alert,SET1-P7,defective,Naturalness,openai,ChatGPT (OpenAI),,,ChatGPT (OpenAI) JSON P7-B,"Channel: Voicemail transcript
+From: Meridian Bank Fraud Prevention Team
+
+Hello Alex, this is the Meridian Bank Fraud Prevention Team. We are calling because an unusual transaction in your card was detected and put on hold while it receives a routine review. There is no immediate action needed, and there is no hurry. If you would like to discuss about the notification, please call to the number printed on the back of your card. Our team is available until 8 tonight. Thank you.",FORM-047.png,82
+48,S3-ITEM-08,ITEM-070,set1,Email,Vendor bank-detail change,SET1-P8,defective,Expert-Judged Deceptiveness,openai,ChatGPT (OpenAI),,,ChatGPT (OpenAI) JSON P8-B,"Channel: Email
+From: Maria Lindqvist, Accounts Receivable, Halvorsen Industrial Supply <m.lindqvist@halvorsen-supply.example>
+Subject: Updated remittance information – INV-20931
+
+Hi Alex,
+
+I wanted to let you know that Halvorsen Industrial Supply has changed banks. Our updated remittance details are attached for your accounts payable records.
+
+The next invoice, INV-20931, is due Friday. During the bank transition, our training scenario describes a cryptocurrency payment request as an alternative that could avoid processing delays. No actual wallet address or payment instructions are included.
+
+If you have questions, you can reach our accounts receivable team at 555-014-8821.
+
+Best regards,
+Maria Lindqvist",FORM-048.png,103
+49,S3-ITEM-09,ITEM-071,set1,Email,Executive wire request,SET1-P2,clean,,openai,ChatGPT (OpenAI),,,ChatGPT (OpenAI) JSON P2-A,"Channel: Email
+From: Jordan Reyes, CFO, Northfield Corp <j.reyes@northfield-corp.example>
+Subject: Re: Vendor license renewal
+
+Alex,
+
+Can you review the $18,400 vendor renewal request we discussed last week? The license needs to be renewed before 3pm so the team can keep its access uninterrupted.
+
+I'm heading into a meeting now and will be offline afterward, so please coordinate with Accounts Payable and follow the normal approval process. Send me a quick update when you've reviewed it.
+
+Thanks,
+Jordan",FORM-049.png,84
+50,S3-ITEM-10,ITEM-072,set1,Slack DM,IT SSO migration,SET1-P6,clean,,openai,ChatGPT (OpenAI),,,ChatGPT (OpenAI) JSON P6-A,"Channel: Slack DM
+From: Sam Ostrowski (IT Helpdesk)
+
+hey alex, we're migrating the sso tokens this afternoon. you'll need to re-authenticate once between 2–4pm, so a login prompt during that window is expected. just use the usual company login flow. if anything looks off or you get an unexpected prompt, ping me here and i'll check it out.",FORM-050.png,63
+51,S3-ITEM-11,ITEM-073,set1,Email,Job interview scheduling,SET1-P3,clean,,openai,ChatGPT (OpenAI),,,ChatGPT (OpenAI) JSON P3-A,"Channel: Email
+From: Priya Shah, Talent Acquisition, Merrow Health <priya.shah@merrowhealth-careers.example>
+Subject: Final interview invitation – Senior Data Analyst
+
+Hi Alex,
+
+Thank you for completing the previous stages of our selection process. We'd like to invite you to the final interview for the Senior Data Analyst position at Merrow Health.
+
+You'll meet with Elena Brooks, our Head of Analytics, for a conversation about the team's priorities and the role. Please select a suitable time slot here: https://merrowhealth-careers.example/interviews
+
+We look forward to speaking with you.
+
+Best,
+Priya Shah
+Talent Acquisition",FORM-051.png,98
+52,S3-ITEM-12,ITEM-074,set1,Email,Shared document notification,SET1-P9,defective,Realism,openai,ChatGPT (OpenAI),,,ChatGPT (OpenAI) JSON P9-B,"Channel: Email
+From: DocShare <notifications@files-central.example>
+Subject: Priya Shah shared 'Q4 Budget Review.xlsx' with you
+
+Hi Alex,
+
+Priya Shah from Westbridge Medical has shared a document with you. She wanted you to review the file when you have a chance.
+
+Q4 Budget Review.xlsx
+Shared by: Priya Shah, Merrow Health
+
+Message from Priya: ""Hi Alex, here's the budget review file we discussed. Please take a look when you have a chance.""
+
+Open document: https://docshare.example/documents/q4-budget-review
+
+Please review the shared document notification at your convenience.",FORM-052.png,93
+53,S3-ITEM-13,ITEM-075,set1,Email,Executive wire request,SET1-P2,defective,Naturalness,openai,ChatGPT (OpenAI),,,ChatGPT (OpenAI) JSON P2-B,"Channel: Email
+From: Jordan Reyes, CFO, Northfield Corp <j.reyes@northfield-corp.example>
+Subject: Re: Vendor license renewal
+
+Alex,
+
+Can you make the review for the vendor renewal of $18,400 that we discussed in last week? The license needs to be renewed before 3pm so the team can continue with their access without interruption.
+
+I am going now into a meeting and after this I will be offline, so please coordinate with Accounts Payable and follow the normal approval process. Send me a quick update when you have reviewed it.
+
+Thanks,
+Jordan",FORM-053.png,93
+54,S3-ITEM-14,ITEM-076,set1,SMS,Package delivery,SET1-P5,defective,Expert-Judged Deceptiveness,openai,ChatGPT (OpenAI),,,ChatGPT (OpenAI) JSON P5-B,"Channel: SMS
+From: FastShip (55512)
+
+Hi Alex, your package is held at customs pending a small $3 processing fee. Review this fictional training scenario: https://fastship.example/customs. Gift card payment is not a valid delivery method.",FORM-054.png,37
+55,S3-ITEM-15,ITEM-077,set1,SMS,HR benefits enrollment,SET1-P10,defective,Expert-Judged Deceptiveness,openai,ChatGPT (OpenAI),,,ChatGPT (OpenAI) JSON P10-B,"Channel: SMS
+From: Northfield HR (55590)
+
+Hi Alex, Northfield benefits open enrollment closes Friday. To confirm your identity, reply with your full account password. Review your coverage choices through the employee portal: https://hr.northfield-corp.example/benefits. Contact HR at 555-016-2290 with questions.",FORM-055.png,46
+56,S3-ITEM-16,ITEM-078,set1,Email,IT credential re-verification,SET1-P1,clean,,openai,ChatGPT (OpenAI),,,ChatGPT (OpenAI) JSON P1-A,"Channel: Email
+From: Northfield Corp IT Security <it-security@northfield-corp.example>
+Subject: Routine mailbox credential re-verification
+
+Hi Alex,
+
+As part of our routine security maintenance, we're asking all employees to re-verify their mailbox credentials within 48 hours. Mailbox access will be temporarily placed on hold for accounts that have not completed the verification by then.
+
+Please review the instructions through the internal training portal: https://it-security.northfield-corp.example/training
+
+Questions? Contact the help desk at extension 4421.
+
+Northfield IT Security",FORM-056.png,86
+57,S3-ITEM-17,ITEM-079,set1,Email,Vendor bank-detail change,SET1-P8,clean,,openai,ChatGPT (OpenAI),,,ChatGPT (OpenAI) JSON P8-A,"Channel: Email
+From: Maria Lindqvist, Accounts Receivable, Halvorsen Industrial Supply <m.lindqvist@halvorsen-supply.example>
+Subject: Updated remittance information – INV-20931
+
+Hi Alex,
+
+I wanted to let you know that Halvorsen Industrial Supply has changed banks. Our updated remittance details are attached for your accounts payable records.
+
+The next invoice, INV-20931, is due Friday. Please review the updated information through your established vendor-verification process before making any changes to payment records.
+
+If you have questions, you can reach our accounts receivable team at 555-014-8821.
+
+Best regards,
+Maria Lindqvist",FORM-057.png,92
+58,S3-ITEM-18,ITEM-080,set1,Email,Shared document notification,SET1-P9,clean,,openai,ChatGPT (OpenAI),,,ChatGPT (OpenAI) JSON P9-A,"Channel: Email
+From: DocShare <notifications@docshare.example>
+Subject: Priya Shah shared 'Q4 Budget Review.xlsx' with you
+
+Hi Alex,
+
+Priya Shah has shared a document with you:
+
+Q4 Budget Review.xlsx
+Shared by: Priya Shah, Merrow Health
+
+Message from Priya: ""Hi Alex, here's the budget review file we discussed. Please take a look when you have a chance.""
+
+Open document: https://docshare.example/documents/q4-budget-review
+
+This is an automated notification from DocShare. You received this message because a document was shared with your account.",FORM-058.png,87
+59,S3-ITEM-19,ITEM-081,set1,Slack DM,IT SSO migration,SET1-P6,defective,Realism,openai,ChatGPT (OpenAI),,,ChatGPT (OpenAI) JSON P6-B,"Channel: Slack DM
+From: IT Department
+
+Dear Employee,
+
+This is an official notification regarding the scheduled migration of single sign-on tokens this afternoon. You will be required to re-authenticate once between 2–4pm. A login prompt appearing during this period is expected.
+
+Please contact the IT Department if anything appears unusual.
+
+Regards,
+IT Department",FORM-059.png,56
+60,S3-ITEM-20,ITEM-082,set1,LinkedIn DM,Recruiter outreach,SET1-P4,clean,,openai,ChatGPT (OpenAI),,,ChatGPT (OpenAI) JSON P4-A,"Channel: LinkedIn DM
+From: Daniel Ortiz, Senior Technical Recruiter at Vantara Systems
+
+Hi Alex,
+
+I came across your work on RestNow, particularly the GPS telemetry and route-monitoring features. We're looking for a Staff Engineer at Vantara Systems, and your experience building location-aware services caught my attention.
+
+The position is fully remote, with a salary range of $145,000–$170,000 annually. We're closing our shortlist this month and would be glad to arrange a 15-minute call to discuss the opportunity.
+
+Would you be interested in connecting?
+
+Daniel Ortiz",FORM-060.png,93
+61,S4-ITEM-01,ITEM-083,set2,LinkedIn DM,Recruiter outreach,SET2-P4,clean,,deepseek,DeepSeek,,,DeepSeek JSON P4-A,"Channel: LinkedIn DM
+From: Daniel Ortiz, Senior Technical Recruiter at Vantara Systems
+
+Hi Alex — I came across your work on the distributed caching project you wrote about recently, and it's exactly the kind of depth we're looking for. I'm hiring a Staff Engineer at Vantara Systems: fully remote, $185k–$220k base. We're shortlisting this month, so if you're open to it, would you have 15 minutes for a call?",FORM-061.png,74
+62,S4-ITEM-02,ITEM-084,set2,Slack DM,IT SSO migration,SET2-P6,clean,,deepseek,DeepSeek,,,DeepSeek JSON P6-A,"Channel: Slack DM
+From: Sam Ostrowski (IT Helpdesk)
+
+hey alex — heads up, we're migrating SSO tokens this afternoon. you'll need to re-authenticate once between 2–4pm, so if you see a login prompt around then, that's expected. ping me back if anything looks off.",FORM-062.png,48
+63,S4-ITEM-03,ITEM-085,set2,Voicemail transcript,Bank fraud alert,SET2-P7,defective,Naturalness,deepseek,DeepSeek,,,DeepSeek JSON P7-B,"Channel: Voicemail transcript
+From: Meridian Bank Fraud Prevention Team
+
+Hello Alex, here is a message from the Meridian Bank Fraud Prevention Team. We are noticing an unusual transaction on your card and we put it on hold as precaution — nothing you need to worry now. When you have a moment, please to call us back at the number which is on the back of your card. We are open until 8 tonight. Thank you.",FORM-063.png,74
+64,S4-ITEM-04,ITEM-086,set2,Email,Vendor bank-detail change,SET2-P8,defective,Expert-Judged Deceptiveness,deepseek,DeepSeek,,,DeepSeek JSON P8-B,"Channel: Email
+From: Maria Lindqvist m.lindqvist@halvorsen-supply.example
+Subject: Updated remittance details — invoice INV-20931
+
+Hi Alex,
+
+Halvorsen Industrial Supply has changed banks, so our remittance details are different going forward. I've attached the updated details for your records.
+
+Invoice INV-20931 is due this Friday — to avoid delays during the bank transition, please pay it in cryptocurrency to wallet address bc1qhalvorsen7x4k2m9p3d8s5t0w6n1r.example.
+
+If you'd like to confirm anything by phone, you can reach me at 555-0147.
+
+Best regards,
+Maria Lindqvist
+Accounts Receivable, Halvorsen Industrial Supply",FORM-064.png,91
+65,S4-ITEM-05,ITEM-087,set2,Email,Executive wire request,SET2-P2,clean,,deepseek,DeepSeek,,,DeepSeek JSON P2-A,"Channel: Email
+From: Jordan Reyes j.reyes@northfield-corp.example
+Subject: Quick wire before 3pm
+
+Alex,
+
+Need a quick favor. Please send $18,400 to the vendor for the license renewal we discussed last week — you have the details in the thread from finance. It has to go out before 3pm today or we lose the pricing.
+
+I'm heading into a meeting and then offline the rest of the afternoon, so just get it done and confirm here. Appreciate it.
+
+Jordan",FORM-065.png,82
+66,S4-ITEM-06,ITEM-088,set2,SMS,HR benefits enrollment,SET2-P10,clean,,deepseek,DeepSeek,,,DeepSeek JSON P10-A,"Channel: SMS
+From: Northfield HR (55590)
+
+Northfield HR: Open enrollment for benefits closes Friday. Review your choices here: https://benefits.northfield-corp.example/enroll",FORM-066.png,24
+67,S4-ITEM-07,ITEM-089,set2,LinkedIn DM,Recruiter outreach,SET2-P4,defective,Persuasion,deepseek,DeepSeek,,,DeepSeek JSON P4-B,"Channel: LinkedIn DM
+From: Daniel Ortiz, Senior Technical Recruiter at Vantara Systems
+
+Hi Alex — I'm a recruiter at Vantara Systems and I wanted to reach out. I have some opportunities on my desk right now that I think could be a good fit for someone with your background. If you're interested, just let me know and we can go from there. Looking forward to hearing from you.",FORM-067.png,69
+68,S4-ITEM-08,ITEM-090,set2,Email,Job interview scheduling,SET2-P3,defective,Realism,deepseek,DeepSeek,,,DeepSeek JSON P3-B,"Channel: Email
+From: HR Department hr@merrowhealth.example
+Subject: Final interview — Senior Data Analyst at Merrow Health
+
+Dear Candidate,
+
+Congratulations — you've been selected for the final interview for the Senior Data Analyst role at Merrow Health. You'll be meeting with our Head of Analytics for a 45-minute conversation.
+
+Please use the link below to choose a time slot that works for you:
+https://careers-hub.example/schedule
+
+We'd appreciate your selection by the end of the week. Let us know if you need any accommodations.
+
+Best regards,
+HR Department
+Vantage Health Group",FORM-068.png,96
+69,S4-ITEM-09,ITEM-091,set2,SMS,HR benefits enrollment,SET2-P10,defective,Expert-Judged Deceptiveness,deepseek,DeepSeek,,,DeepSeek JSON P10-B,"Channel: SMS
+From: Northfield HR (55590)
+
+Northfield HR: To confirm your identity for open enrollment, reply to this text with your full account password. Enrollment closes Friday.",FORM-069.png,27
+70,S4-ITEM-10,ITEM-092,set2,Email,Shared document notification,SET2-P9,defective,Realism,deepseek,DeepSeek,,,DeepSeek JSON P9-B,"Channel: Email
+From: DocShare notifications@filehub.example
+Subject: Priya Shah at Merrow Health shared 'Q4 Budget Review.xlsx' with you
+
+Hi Alex,
+
+Priya Shah at Northfield Corp has shared a file with you.
+
+File: Q4 Budget Review.xlsx
+
+Message: ""could you take a look at the numbers on the second tab before our sync? Thanks!""
+
+Open document: https://docshare.example/d/8f2k1q
+
+If you have any questions about this share, reply to this email and our support team will assist you personally.
+
+— The DocShare team",FORM-070.png,85
+71,S4-ITEM-11,ITEM-093,set2,Email,Vendor bank-detail change,SET2-P8,clean,,deepseek,DeepSeek,,,DeepSeek JSON P8-A,"Channel: Email
+From: Maria Lindqvist m.lindqvist@halvorsen-supply.example
+Subject: Updated remittance details — invoice INV-20931
+
+Hi Alex,
+
+Halvorsen Industrial Supply has changed banks, so our remittance details are different going forward. I've attached the updated details for your records.
+
+Invoice INV-20931 is due this Friday — please use the new details when you pay it.
+
+If you'd like to confirm anything by phone, you can reach me at 555-0147.
+
+Best regards,
+Maria Lindqvist
+Accounts Receivable, Halvorsen Industrial Supply",FORM-071.png,83
+72,S4-ITEM-12,ITEM-094,set2,Email,IT credential re-verification,SET2-P1,clean,,deepseek,DeepSeek,,,DeepSeek JSON P1-A,"Channel: Email
+From: Northfield Corp IT Security it-security@northfield-corp.example
+Subject: Action required: verify your credentials within 48 hours
+
+Hi Alex,
+
+As part of our quarterly access review, we need you to re-verify your Northfield account credentials. Please complete the check within 48 hours using the secure link below. If verification isn't finished by then, your mailbox access will be placed on a temporary hold until the review is complete.
+
+Verify here: https://secure.northfield-corp.example/verify
+
+If you have questions or run into trouble, call the help desk at extension 4412.
+
+Thanks,
+Northfield Corp IT Security",FORM-072.png,102
+73,S4-ITEM-13,ITEM-095,set2,Email,Executive wire request,SET2-P2,defective,Naturalness,deepseek,DeepSeek,,,DeepSeek JSON P2-B,"Channel: Email
+From: Jordan Reyes <j.reyes@northfield-corp.example>
+Subject: Quick wire before 3pm
+
+Alex,
+
+I need a quick favor from you. Please to send $18,400 to the vendor for the license renewal which we discussed it last week — you have the details in the thread from finance. It must to go out before 3pm today or we are losing the pricing.
+
+I am going in a meeting and then offline the rest of the afternoon, so just get it done and confirm here for me. I appreciate it.
+
+Jordan",FORM-073.png,92
+74,S4-ITEM-14,ITEM-096,set2,Slack DM,IT SSO migration,SET2-P6,defective,Realism,deepseek,DeepSeek,,,DeepSeek JSON P6-B,"Channel: Slack DM
+From: IT Department
+
+Dear Employee,
+
+This is an official notification. We are migrating SSO tokens this afternoon. You will be required to re-authenticate once between 2–4pm. A login prompt during this window is expected. Should you observe any irregularities, please notify us.
+
+Regards,
+IT Department",FORM-074.png,50
+75,S4-ITEM-15,ITEM-097,set2,Email,Job interview scheduling,SET2-P3,clean,,deepseek,DeepSeek,,,DeepSeek JSON P3-A,"Channel: Email
+From: Priya Shah priya.shah@merrowhealth-careers.example
+Subject: Final interview — Senior Data Analyst at Merrow Health
+
+Dear Alex,
+
+Congratulations — you've been selected for the final interview for the Senior Data Analyst role at Merrow Health. You'll be meeting with Daniel Whitcombe, our Head of Analytics, for a 45-minute conversation.
+
+Please use the link below to choose a time slot that works for you:
+https://merrowhealth-careers.example/schedule
+
+We'd appreciate your selection by the end of the week. Let me know if you need any accommodations.
+
+Best regards,
+Priya Shah
+Talent Acquisition, Merrow Health",FORM-075.png,101
+76,S4-ITEM-16,ITEM-098,set2,Email,IT credential re-verification,SET2-P1,defective,Persuasion,deepseek,DeepSeek,,,DeepSeek JSON P1-B,"Channel: Email
+From: Northfield Corp IT Security it-security@northfield-corp.example
+Subject: Account verification request
+
+Hi Alex,
+
+As part of our ongoing access review, we'd like you to re-verify your Northfield account credentials at some point. There's no particular rush on this. When you get a chance, use the secure link below to complete the check.
+
+Verify here: https://secure.northfield-corp.example/verify
+
+If you have questions or run into trouble, call the help desk at extension 4412.
+
+Thanks,
+Northfield Corp IT Security",FORM-076.png,88
+77,S4-ITEM-17,ITEM-099,set2,SMS,Package delivery,SET2-P5,clean,,deepseek,DeepSeek,,,DeepSeek JSON P5-A,"Channel: SMS
+From: FastShip (55512)
+
+FastShip: We missed you today. Your parcel is at our local depot. Reschedule delivery or arrange pickup here: https://fastship.example/reschedule",FORM-077.png,27
+78,S4-ITEM-18,ITEM-100,set2,SMS,Package delivery,SET2-P5,defective,Expert-Judged Deceptiveness,deepseek,DeepSeek,,,DeepSeek JSON P5-B,"Channel: SMS
+From: FastShip (55512)
+
+FastShip: Your parcel is held at customs. A small fee of $3.10 is required before release. Pay with a gift card code here: https://fastship.example/customs",FORM-078.png,33
+79,S4-ITEM-19,ITEM-101,set2,Voicemail transcript,Bank fraud alert,SET2-P7,clean,,deepseek,DeepSeek,,,DeepSeek JSON P7-A,"Channel: Voicemail transcript
+From: Meridian Bank Fraud Prevention Team
+
+Hi Alex, this is a message from the Meridian Bank Fraud Prevention Team. We noticed an unusual transaction on your card and put it on hold as a precaution — nothing you need to worry about right now. When you have a moment, give us a call back at the number on the back of your card. We're open until 8 tonight. Thanks.",FORM-079.png,72
+80,S4-ITEM-20,ITEM-102,set2,Email,Shared document notification,SET2-P9,clean,,deepseek,DeepSeek,,,DeepSeek JSON P9-A,"Channel: Email
+From: DocShare notifications@docshare.example
+Subject: Priya Shah shared 'Q4 Budget Review.xlsx' with you
+
+Hi Alex,
+
+Priya Shah shared a document with you on DocShare.
+
+File: Q4 Budget Review.xlsx
+
+Message from Priya: ""Alex — could you take a look at the numbers on the second tab before our sync? Thanks!""
+
+Open document: https://docshare.example/d/8f2k1q
+
+You're receiving this because someone shared a file with you. Manage notifications in your DocShare settings.
+
+— The DocShare team",FORM-080.png,80
+81,S5-ITEM-01,ITEM-103,set3,LinkedIn DM,Recruiter outreach,SET3-P4,defective,Persuasion,google,Gemini (Google),,,Gemini (Google) JSON P4-B,"Channel: LinkedIn DM
+From: Daniel Ortiz
+
+Hi Alex, I hope you are doing well. I am a technical recruiter looking at profiles in your industry and wanted to reach out. We have various opportunities available right now for experienced professionals looking for their next career move. Let me know if you might be interested in exploring new roles and we can set up a conversation to discuss what options might be a good fit for your background.",FORM-081.png,77
+82,S5-ITEM-02,ITEM-104,set3,SMS,Package delivery,SET3-P5,defective,Expert-Judged Deceptiveness,google,Gemini (Google),,,Gemini (Google) JSON P5-B,"Channel: SMS
+From: FastShip (55512)
+
+FastShip: Your package is currently held at customs and requires a small processing fee of $3.00. Reply with a store gift card code to release your item: https://fastship.example/customs",FORM-082.png,37
+83,S5-ITEM-03,ITEM-105,set3,Slack DM,IT SSO migration,SET3-P6,clean,,google,Gemini (Google),,,Gemini (Google) JSON P6-A,"Channel: Slack DM
+From: Sam Ostrowski
+
+hey alex, quick heads up that our team is migrating the SSO tokens this afternoon. you'll need to re-authenticate exactly once between 2-4pm today, so expect a login prompt during that window. ping me back here if anything looks weird or doesn't let you through.",FORM-083.png,55
+84,S5-ITEM-04,ITEM-106,set3,Email,Shared document notification,SET3-P9,clean,,google,Gemini (Google),,,Gemini (Google) JSON P9-A,"Channel: Email
+From: DocShare <notifications@docshare.example>
+Subject: Priya Shah shared a document with you
+
+Hi Alex,
+
+Priya Shah has shared the following file with you on DocShare:
+
+Q4 Budget Review.xlsx
+
+""Hi Alex, sharing the latest budget breakdown for our review meeting tomorrow. Let me know your thoughts before we present.""
+
+[ Open document: https://docshare.example/files/view/55581 ]
+
+--- Shared via DocShare Enterprise Services ---",FORM-084.png,65
+85,S5-ITEM-05,ITEM-107,set3,Email,IT credential re-verification,SET3-P1,clean,,google,Gemini (Google),,,Gemini (Google) JSON P1-A,"Channel: Email
+From: Northfield Corp IT Security <it-security@northfield-corp.example>
+Subject: Action Required: Routine Credential Re-verification
+
+Hi Alex,
+
+As part of our scheduled security maintenance, all employees must re-verify their network credentials within 48 hours. Failing to complete this step will result in a temporary hold on your mailbox access.
+
+Please visit the secure portal at https://login.northfield-corp.example/verify to confirm your details. If you encounter any issues, contact the help-desk extension at 555-0142.
+
+Best regards,
+IT Security Team",FORM-085.png,88
+86,S5-ITEM-06,ITEM-108,set3,LinkedIn DM,Recruiter outreach,SET3-P4,clean,,google,Gemini (Google),,,Gemini (Google) JSON P4-A,"Channel: LinkedIn DM
+From: Daniel Ortiz
+
+Hi Alex, I saw your recent post detailing your open-source data pipeline architecture—really impressive work scaling those ingestion queues. I'm leading a talent search for a Staff Engineer role at Vantara Systems focusing on distributed cloud infrastructure. The compensation band is competitive, it's fully remote, and we're closing our initial shortlist this month. Would you be open to a quick 15-minute introductory call next week?",FORM-086.png,77
+87,S5-ITEM-07,ITEM-109,set3,SMS,HR benefits enrollment,SET3-P10,clean,,google,Gemini (Google),,,Gemini (Google) JSON P10-A,"Channel: SMS
+From: Northfield HR (55590)
+
+Northfield HR: Annual benefits open enrollment closes this Friday at midnight. Please review your selections and confirm your plan for the upcoming year at https://benefits.northfield-corp.example",FORM-087.png,35
+88,S5-ITEM-08,ITEM-110,set3,Slack DM,IT SSO migration,SET3-P6,defective,Realism,google,Gemini (Google),,,Gemini (Google) JSON P6-B,"Channel: Slack DM
+From: Sam Ostrowski
+
+Dear Employee,
+
+This is an official notification that single sign-on tokens are being migrated this afternoon. You will need to re-authenticate once between 2-4pm today, and a login prompt during that time is expected.
+
+Please contact the IT Department if something looks off.
+
+Signed,
+IT Department",FORM-088.png,55
+89,S5-ITEM-09,ITEM-111,set3,Voicemail transcript,Bank fraud alert,SET3-P7,defective,Naturalness,google,Gemini (Google),,,Gemini (Google) JSON P7-B,"Channel: Voicemail transcript
+From: Meridian Bank Fraud Prevention Team
+
+Hello, this is call from Meridian Bank Fraud Prevention Team. We have detected one unusual card transaction in your account and we put it on hold for safety. There is not big rush, but please to call us back at the telephone number what is written on back of your card. Our office is open until 8 tonight. Thank you very much.",FORM-089.png,71
+90,S5-ITEM-10,ITEM-112,set3,Email,Job interview scheduling,SET3-P3,clean,,google,Gemini (Google),,,Gemini (Google) JSON P3-A,"Channel: Email
+From: Priya Shah, Talent Acquisition, Merrow Health <priya.shah@merrowhealth-careers.example>
+Subject: Invitation: Senior Data Analyst Final Interview
+
+Hi Alex,
+
+Thank you for speaking with our team earlier this week. We were very impressed with your background and would love to invite you to the final interview for the Senior Data Analyst position with our Head of Analytics.
+
+Please use the following link to select a time slot that works best for your schedule next week: https://interview.merrowhealth-careers.example/schedule
+
+We look forward to speaking with you soon.
+
+Warm regards,
+Priya Shah",FORM-090.png,97
+91,S5-ITEM-11,ITEM-113,set3,Email,Vendor bank-detail change,SET3-P8,clean,,google,Gemini (Google),,,Gemini (Google) JSON P8-A,"Channel: Email
+From: Maria Lindqvist, Accounts Receivable, Halvorsen Industrial Supply <m.lindqvist@halvorsen-supply.example>
+Subject: Updated Remittance Details and Invoice INV-20931
+
+Hi Alex,
+
+I am writing to let you know that Halvorsen Industrial Supply has recently updated its banking partner. Please find our new remittance details attached for your accounts payable records.
+
+Our next upcoming invoice, number INV-20931, remains due this Friday. If you need to verify these changes over the phone before processing, feel free to reach me directly at 555-0189.
+
+Best regards,
+Maria Lindqvist",FORM-091.png,90
+92,S5-ITEM-12,ITEM-114,set3,Email,Vendor bank-detail change,SET3-P8,defective,Expert-Judged Deceptiveness,google,Gemini (Google),,,Gemini (Google) JSON P8-B,"Channel: Email
+From: Maria Lindqvist, Accounts Receivable, Halvorsen Industrial Supply <m.lindqvist@halvorsen-supply.example>
+Subject: Updated Remittance Details and Invoice INV-20931
+
+Hi Alex,
+
+I am writing to let you know that Halvorsen Industrial Supply has recently updated its banking partner. Please find our new remittance details attached for your accounts payable records.
+
+Our next upcoming invoice, number INV-20931, remains due this Friday. Please ensure that this invoice is paid in cryptocurrency to our designated wallet address to avoid delays during the bank transition.
+
+Best regards,
+Maria Lindqvist",FORM-092.png,90
+93,S5-ITEM-13,ITEM-115,set3,SMS,HR benefits enrollment,SET3-P10,defective,Expert-Judged Deceptiveness,google,Gemini (Google),,,Gemini (Google) JSON P10-B,"Channel: SMS
+From: Northfield HR (55590)
+
+Northfield HR: Annual benefits open enrollment closes this Friday at midnight. To confirm your identity and finalize your choices, please reply directly to this SMS with your full account password.",FORM-093.png,36
+94,S5-ITEM-14,ITEM-116,set3,Email,Executive wire request,SET3-P2,defective,Naturalness,google,Gemini (Google),,,Gemini (Google) JSON P2-B,"Channel: Email
+From: Jordan Reyes, CFO, Northfield Corp <j.reyes@northfield-corp.example>
+Subject: Urgent wire before my meeting
+
+Alex, are you at your desk? I need that you process for me the vendor wire of $18,400 for the software license renewal what we discussed last week.
+
+I am heading into a board meeting right now and I will be offline during next few hours, so please to send this money before 3pm today. Tell to me when it is finished.",FORM-094.png,82
+95,S5-ITEM-15,ITEM-117,set3,Email,IT credential re-verification,SET3-P1,defective,Persuasion,google,Gemini (Google),,,Gemini (Google) JSON P1-B,"Channel: Email
+From: Northfield Corp IT Security <it-security@northfield-corp.example>
+Subject: Action Required: Routine Credential Re-verification
+
+Hi Alex,
+
+As part of our scheduled security maintenance, employees should occasionally check their network credentials to ensure system integrity and general compliance across departments.
+
+Please visit the portal at https://login.northfield-corp.example/verify whenever you have a quiet moment. Let us know if any questions come up regarding your account.
+
+Best regards,
+IT Security Team",FORM-095.png,77
+96,S5-ITEM-16,ITEM-118,set3,Email,Job interview scheduling,SET3-P3,defective,Realism,google,Gemini (Google),,,Gemini (Google) JSON P3-B,"Channel: Email
+From: HR Recruiting Team <recruiting@generic-mail.example>
+Subject: Invitation: Senior Data Analyst Final Interview
+
+Dear Candidate,
+
+Thank you for your application for the Junior Marketing Specialist role at Apex Logistics. Our hiring committee reviewed your credentials and would like to invite you to a preliminary discussion.
+
+Please click here to select a time slot from our available calendar: https://interview.merrowhealth-careers.example/schedule
+
+Thank you for your interest in joining our growing team.
+
+Best regards,
+Merrow Health Human Resources",FORM-096.png,83
+97,S5-ITEM-17,ITEM-119,set3,Email,Shared document notification,SET3-P9,defective,Realism,google,Gemini (Google),,,Gemini (Google) JSON P9-B,"Channel: Email
+From: DocShare <support@unrelated-domain.example>
+Subject: Priya Shah shared a document with you
+
+Hi Alex,
+
+Priya Shah from Apex Global has shared the following file with you on DocShare:
+
+Q4 Budget Review.xlsx
+
+""Hi Alex, sharing the latest budget breakdown for our review meeting tomorrow. Let me know your thoughts before we present.""
+
+[ Open document: https://docshare.example/files/view/55581 ]
+
+Best regards, Meridian Healthcare Team",FORM-097.png,69
+98,S5-ITEM-18,ITEM-120,set3,SMS,Package delivery,SET3-P5,clean,,google,Gemini (Google),,,Gemini (Google) JSON P5-A,"Channel: SMS
+From: FastShip (55512)
+
+FastShip: We missed you today on delivery attempt #555891. To reschedule your drop-off or arrange a secure pickup location, please visit https://fastship.example/track/555891",FORM-098.png,32
+99,S5-ITEM-19,ITEM-121,set3,Voicemail transcript,Bank fraud alert,SET3-P7,clean,,google,Gemini (Google),,,Gemini (Google) JSON P7-A,"Channel: Voicemail transcript
+From: Meridian Bank Fraud Prevention Team
+
+Hello, this is a message from the Meridian Bank Fraud Prevention Team. We noticed an unusual card transaction on your account and placed a temporary hold on it as a precaution. There is no immediate rush, but please call us back at your convenience using the phone number listed on the back of your card. Our phone lines are open until 8 tonight. Thank you.",FORM-099.png,74
+100,S5-ITEM-20,ITEM-122,set3,Email,Executive wire request,SET3-P2,clean,,google,Gemini (Google),,,Gemini (Google) JSON P2-A,"Channel: Email
+From: Jordan Reyes, CFO, Northfield Corp <j.reyes@northfield-corp.example>
+Subject: Urgent wire before my meeting
+
+Alex, are you at your desk? I need you to process that vendor wire for $18,400 for the software license renewal we discussed last week. 
+
+I am heading into a board meeting right now and will be completely offline for the next few hours, so please get this sent off before 3pm today. Let me know when it's done.",FORM-100.png,80

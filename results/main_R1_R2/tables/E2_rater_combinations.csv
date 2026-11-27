@@ -1,0 +1,13 @@
+,dimension,n_raters,panel,rho_judge_panel,alpha
+0,Realism,1,R1,0.518,
+1,Realism,1,R2,0.359,
+2,Realism,2,R1+R2,0.546,0.255
+3,Persuasion,1,R1,0.609,
+4,Persuasion,1,R2,0.454,
+5,Persuasion,2,R1+R2,0.631,0.367
+6,Naturalness,1,R1,0.365,
+7,Naturalness,1,R2,0.422,
+8,Naturalness,2,R1+R2,0.489,0.365
+9,Deceptiveness,1,R1,0.553,
+10,Deceptiveness,1,R2,0.44,
+11,Deceptiveness,2,R1+R2,0.598,0.415

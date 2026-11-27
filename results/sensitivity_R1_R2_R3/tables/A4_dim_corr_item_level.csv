@@ -1,0 +1,5 @@
+,realism,persuasion,naturalness,deceptiveness
+realism,1.0,-0.03,0.74,0.87
+persuasion,-0.03,1.0,-0.04,0.08
+naturalness,0.74,-0.04,1.0,0.79
+deceptiveness,0.87,0.08,0.79,1.0

@@ -1,0 +1,123 @@
+item_id,image_file,source_set,pair,form_id,version,planted_defect,scenario,channel,original_id,recipient,role,model,temperature,seed,label_source
+ITEM-001,ITEM-001.png,stamped,P3,C6,defective,Realism,Recruitment process,Email,"ITEM-01 (P06 C6, Claude-generated)",,,,,,P06_campaigns_28.csv
+ITEM-002,ITEM-002.png,stamped,P1,C1,clean,,IT security notice,Email,"ITEM-02 (P06 C1, Claude-generated)",,,,,,P06_campaigns_28.csv
+ITEM-003,ITEM-003.png,stamped,P6,C11,clean,,Internal IT request (SSO migration),Slack direct message,"ITEM-03 (P06 C11, Claude-generated)",,,,,,P06_campaigns_28.csv
+ITEM-004,ITEM-004.png,stamped,P4,C8,defective,Persuasion,Recruiter outreach,LinkedIn message,"ITEM-04 (P06 C8, Claude-generated)",,,,,,P06_campaigns_28.csv
+ITEM-005,ITEM-005.png,stamped,P2,C3,clean,,Executive wire-transfer request (BEC),Email,"ITEM-05 (P06 C3, Claude-generated)",,,,,,P06_campaigns_28.csv
+ITEM-006,ITEM-006.png,stamped,P7,C14,defective,Naturalness,Bank fraud alert (vishing),Voicemail transcript,"ITEM-06 (P06 C14, Claude-generated)",,,,,,P06_campaigns_28.csv
+ITEM-007,ITEM-007.png,stamped,P5,C9,clean,,Package delivery notice (smishing),SMS,"ITEM-07 (P06 C9, Claude-generated)",,,,,,P06_campaigns_28.csv
+ITEM-008,ITEM-008.png,stamped,P1,C2,defective,Persuasion,IT security notice,Email,"ITEM-08 (P06 C2, Claude-generated)",,,,,,P06_campaigns_28.csv
+ITEM-009,ITEM-009.png,stamped,P6,C12,defective,Realism,Internal IT request (SSO migration),Slack direct message,"ITEM-09 (P06 C12, Claude-generated)",,,,,,P06_campaigns_28.csv
+ITEM-010,ITEM-010.png,stamped,P3,C5,clean,,Recruitment process,Email,"ITEM-10 (P06 C5, Claude-generated)",,,,,,P06_campaigns_28.csv
+ITEM-011,ITEM-011.png,stamped,P4,C7,clean,,Recruiter outreach,LinkedIn message,"ITEM-11 (P06 C7, Claude-generated)",,,,,,P06_campaigns_28.csv
+ITEM-012,ITEM-012.png,stamped,P2,C4,defective,Naturalness,Executive wire-transfer request (BEC),Email,"ITEM-12 (P06 C4, Claude-generated)",,,,,,P06_campaigns_28.csv
+ITEM-013,ITEM-013.png,stamped,P7,C13,clean,,Bank fraud alert (vishing),Voicemail transcript,"ITEM-13 (P06 C13, Claude-generated)",,,,,,P06_campaigns_28.csv
+ITEM-014,ITEM-014.png,stamped,P5,C10,defective,Expert-Judged Deceptiveness,Package delivery notice (smishing),SMS,"ITEM-14 (P06 C10, Claude-generated)",,,,,,P06_campaigns_28.csv
+ITEM-015,ITEM-015.png,campaign,n/a (generated campaign),,n/a,,password_reset campaign,email,SIM-01,Hannah Fischer,Director of People Operations,phi4-mini:latest,1.2,1776,campaign_meta
+ITEM-016,ITEM-016.png,campaign,n/a (generated campaign),,n/a,,password_reset campaign,sms,SIM-02,Hannah Fischer,Director of People Operations,phi4-mini:latest,1.2,1776,campaign_meta
+ITEM-017,ITEM-017.png,campaign,n/a (generated campaign),,n/a,,password_reset campaign,email,SIM-03,Fatima El-Sayed,Director of Operations & IT,phi4-mini:latest,1.2,1772,campaign_meta
+ITEM-018,ITEM-018.png,campaign,n/a (generated campaign),,n/a,,password_reset campaign,sms,SIM-04,Fatima El-Sayed,Director of Operations & IT,phi4-mini:latest,1.2,1772,campaign_meta
+ITEM-019,ITEM-019.png,campaign,n/a (generated campaign),,n/a,,password_reset campaign,email,SIM-05,Hannah Fischer,Director of People Operations,phi4-mini:latest,0.5,1774,campaign_meta
+ITEM-020,ITEM-020.png,campaign,n/a (generated campaign),,n/a,,password_reset campaign,sms,SIM-06,Hannah Fischer,Director of People Operations,phi4-mini:latest,0.5,1774,campaign_meta
+ITEM-021,ITEM-021.png,campaign,n/a (generated campaign),,n/a,,password_reset campaign,email,SIM-07,Hannah Fischer,Director of People Operations,phi4-mini:latest,0.0,1773,campaign_meta
+ITEM-022,ITEM-022.png,campaign,n/a (generated campaign),,n/a,,password_reset campaign,sms,SIM-08,Hannah Fischer,Director of People Operations,phi4-mini:latest,0.0,1773,campaign_meta
+ITEM-023,ITEM-023.png,campaign,n/a (generated campaign),,n/a,,password_reset campaign,email,SIM-09,Gregory Whitfield,Director of Finance,llama3.1:8b,0.0,1385,campaign_meta
+ITEM-024,ITEM-024.png,campaign,n/a (generated campaign),,n/a,,password_reset campaign,sms,SIM-10,Gregory Whitfield,Director of Finance,llama3.1:8b,0.0,1385,campaign_meta
+ITEM-025,ITEM-025.png,campaign,n/a (generated campaign),,n/a,,password_reset campaign,email,SIM-11,Gregory Whitfield,Director of Finance,llama3.1:8b,0.5,1386,campaign_meta
+ITEM-026,ITEM-026.png,campaign,n/a (generated campaign),,n/a,,password_reset campaign,sms,SIM-12,Gregory Whitfield,Director of Finance,llama3.1:8b,0.5,1386,campaign_meta
+ITEM-027,ITEM-027.png,campaign,n/a (generated campaign),,n/a,,password_reset campaign,email,SIM-13,Elena Marchetti,Chief Executive Officer,qwen3:8b,0.5,1002,campaign_meta
+ITEM-028,ITEM-028.png,campaign,n/a (generated campaign),,n/a,,password_reset campaign,sms,SIM-14,Elena Marchetti,Chief Executive Officer,qwen3:8b,0.5,1002,campaign_meta
+ITEM-029,ITEM-029.png,campaign,n/a (generated campaign),,n/a,,password_reset campaign,email,SIM-15,Fatima El-Sayed,Director of Operations & IT,phi4-mini:latest,0.5,1770,campaign_meta
+ITEM-030,ITEM-030.png,campaign,n/a (generated campaign),,n/a,,password_reset campaign,sms,SIM-16,Fatima El-Sayed,Director of Operations & IT,phi4-mini:latest,0.5,1770,campaign_meta
+ITEM-031,ITEM-031.png,campaign,n/a (generated campaign),,n/a,,password_reset campaign,email,SIM-17,Hannah Fischer,Director of People Operations,phi4-mini:latest,0.8,1775,campaign_meta
+ITEM-032,ITEM-032.png,campaign,n/a (generated campaign),,n/a,,password_reset campaign,sms,SIM-18,Hannah Fischer,Director of People Operations,phi4-mini:latest,0.8,1775,campaign_meta
+ITEM-033,ITEM-033.png,campaign,n/a (generated campaign),,n/a,,password_reset campaign,email,SIM-19,Gregory Whitfield,Director of Finance,qwen3:8b,0.8,1007,campaign_meta
+ITEM-034,ITEM-034.png,campaign,n/a (generated campaign),,n/a,,password_reset campaign,sms,SIM-20,Gregory Whitfield,Director of Finance,qwen3:8b,0.8,1007,campaign_meta
+ITEM-035,ITEM-035.png,campaign,n/a (generated campaign),,n/a,,password_reset campaign,email,SIM-21,Fatima El-Sayed,Director of Operations & IT,phi4-mini:latest,0.0,1769,campaign_meta
+ITEM-036,ITEM-036.png,campaign,n/a (generated campaign),,n/a,,password_reset campaign,sms,SIM-22,Fatima El-Sayed,Director of Operations & IT,phi4-mini:latest,0.0,1769,campaign_meta
+ITEM-037,ITEM-037.png,campaign,n/a (generated campaign),,n/a,,password_reset campaign,email,SIM-23,Gregory Whitfield,Director of Finance,qwen3:8b,0.5,1006,campaign_meta
+ITEM-038,ITEM-038.png,campaign,n/a (generated campaign),,n/a,,password_reset campaign,sms,SIM-24,Gregory Whitfield,Director of Finance,qwen3:8b,0.5,1006,campaign_meta
+ITEM-039,ITEM-039.png,campaign,n/a (generated campaign),,n/a,,password_reset campaign,email,SIM-25,Elena Marchetti,Chief Executive Officer,qwen3:8b,1.2,1004,campaign_meta
+ITEM-040,ITEM-040.png,campaign,n/a (generated campaign),,n/a,,password_reset campaign,sms,SIM-26,Elena Marchetti,Chief Executive Officer,qwen3:8b,1.2,1004,campaign_meta
+ITEM-041,ITEM-041.png,campaign,n/a (generated campaign),,n/a,,password_reset campaign,email,SIM-27,Fatima El-Sayed,Director of Operations & IT,llama3.1:8b,1.2,1392,campaign_meta
+ITEM-042,ITEM-042.png,campaign,n/a (generated campaign),,n/a,,password_reset campaign,sms,SIM-28,Fatima El-Sayed,Director of Operations & IT,llama3.1:8b,1.2,1392,campaign_meta
+ITEM-043,ITEM-043.png,campaign,n/a (generated campaign),,n/a,,password_reset campaign,email,SIM-29,Gregory Whitfield,Director of Finance,qwen3:8b,0.0,1005,campaign_meta
+ITEM-044,ITEM-044.png,campaign,n/a (generated campaign),,n/a,,password_reset campaign,sms,SIM-30,Gregory Whitfield,Director of Finance,qwen3:8b,0.0,1005,campaign_meta
+ITEM-045,ITEM-045.png,campaign,n/a (generated campaign),,n/a,,password_reset campaign,email,SIM-31,Gregory Whitfield,Director of Finance,qwen3:8b,1.2,1008,campaign_meta
+ITEM-046,ITEM-046.png,campaign,n/a (generated campaign),,n/a,,password_reset campaign,sms,SIM-32,Gregory Whitfield,Director of Finance,qwen3:8b,1.2,1008,campaign_meta
+ITEM-047,ITEM-047.png,campaign,n/a (generated campaign),,n/a,,password_reset campaign,email,SIM-33,Gregory Whitfield,Director of Finance,llama3.1:8b,1.2,1388,campaign_meta
+ITEM-048,ITEM-048.png,campaign,n/a (generated campaign),,n/a,,password_reset campaign,sms,SIM-34,Gregory Whitfield,Director of Finance,llama3.1:8b,1.2,1388,campaign_meta
+ITEM-049,ITEM-049.png,campaign,n/a (generated campaign),,n/a,,password_reset campaign,email,SIM-35,Fatima El-Sayed,Director of Operations & IT,phi4-mini:latest,0.8,1771,campaign_meta
+ITEM-050,ITEM-050.png,campaign,n/a (generated campaign),,n/a,,password_reset campaign,sms,SIM-36,Fatima El-Sayed,Director of Operations & IT,phi4-mini:latest,0.8,1771,campaign_meta
+ITEM-051,ITEM-051.png,campaign,n/a (generated campaign),,n/a,,password_reset campaign,email,SIM-37,Elena Marchetti,Chief Executive Officer,qwen3:8b,0.0,1001,campaign_meta
+ITEM-052,ITEM-052.png,campaign,n/a (generated campaign),,n/a,,password_reset campaign,sms,SIM-38,Elena Marchetti,Chief Executive Officer,qwen3:8b,0.0,1001,campaign_meta
+ITEM-053,ITEM-053.png,campaign,n/a (generated campaign),,n/a,,password_reset campaign,email,SIM-39,Fatima El-Sayed,Director of Operations & IT,llama3.1:8b,0.0,1389,campaign_meta
+ITEM-054,ITEM-054.png,campaign,n/a (generated campaign),,n/a,,password_reset campaign,sms,SIM-40,Fatima El-Sayed,Director of Operations & IT,llama3.1:8b,0.0,1389,campaign_meta
+ITEM-055,ITEM-055.png,campaign,n/a (generated campaign),,n/a,,password_reset campaign,email,SIM-41,Elena Marchetti,Chief Executive Officer,qwen3:8b,0.8,1003,campaign_meta
+ITEM-056,ITEM-056.png,campaign,n/a (generated campaign),,n/a,,password_reset campaign,sms,SIM-42,Elena Marchetti,Chief Executive Officer,qwen3:8b,0.8,1003,campaign_meta
+ITEM-057,ITEM-057.png,campaign,n/a (generated campaign),,n/a,,password_reset campaign,email,SIM-43,Fatima El-Sayed,Director of Operations & IT,llama3.1:8b,0.8,1391,campaign_meta
+ITEM-058,ITEM-058.png,campaign,n/a (generated campaign),,n/a,,password_reset campaign,sms,SIM-44,Fatima El-Sayed,Director of Operations & IT,llama3.1:8b,0.8,1391,campaign_meta
+ITEM-059,ITEM-059.png,campaign,n/a (generated campaign),,n/a,,password_reset campaign,email,SIM-45,Fatima El-Sayed,Director of Operations & IT,llama3.1:8b,0.5,1390,campaign_meta
+ITEM-060,ITEM-060.png,campaign,n/a (generated campaign),,n/a,,password_reset campaign,sms,SIM-46,Fatima El-Sayed,Director of Operations & IT,llama3.1:8b,0.5,1390,campaign_meta
+ITEM-061,ITEM-061.png,campaign,n/a (generated campaign),,n/a,,password_reset campaign,email,SIM-47,Gregory Whitfield,Director of Finance,llama3.1:8b,0.8,1387,campaign_meta
+ITEM-062,ITEM-062.png,campaign,n/a (generated campaign),,n/a,,password_reset campaign,sms,SIM-48,Gregory Whitfield,Director of Finance,llama3.1:8b,0.8,1387,campaign_meta
+ITEM-063,ITEM-063.png,set1,P10,,clean,,HR benefits enrollment,SMS,ITEM-01 → P10-A,,,,,,answer_key
+ITEM-064,ITEM-064.png,set1,P4,,defective,,Recruiter outreach,LinkedIn DM,ITEM-02 → P4-B,,,,,,answer_key
+ITEM-065,ITEM-065.png,set1,P3,,defective,,Job interview scheduling,Email,ITEM-03 → P3-B,,,,,,answer_key
+ITEM-066,ITEM-066.png,set1,P1,,defective,,IT credential re-verification,Email,ITEM-04 → P1-B,,,,,,answer_key
+ITEM-067,ITEM-067.png,set1,P7,,clean,,Bank fraud alert,Voicemail transcript,ITEM-05 → P7-A,,,,,,answer_key
+ITEM-068,ITEM-068.png,set1,P5,,clean,,Package delivery,SMS,ITEM-06 → P5-A,,,,,,answer_key
+ITEM-069,ITEM-069.png,set1,P7,,defective,,Bank fraud alert,Voicemail transcript,ITEM-07 → P7-B,,,,,,answer_key
+ITEM-070,ITEM-070.png,set1,P8,,defective,,Vendor bank-detail change,Email,ITEM-08 → P8-B,,,,,,answer_key
+ITEM-071,ITEM-071.png,set1,P2,,clean,,Executive wire request,Email,ITEM-09 → P2-A,,,,,,answer_key
+ITEM-072,ITEM-072.png,set1,P6,,clean,,IT SSO migration,Slack DM,ITEM-10 → P6-A,,,,,,answer_key
+ITEM-073,ITEM-073.png,set1,P3,,clean,,Job interview scheduling,Email,ITEM-11 → P3-A,,,,,,answer_key
+ITEM-074,ITEM-074.png,set1,P9,,defective,,Shared document notification,Email,ITEM-12 → P9-B,,,,,,answer_key
+ITEM-075,ITEM-075.png,set1,P2,,defective,,Executive wire request,Email,ITEM-13 → P2-B,,,,,,answer_key
+ITEM-076,ITEM-076.png,set1,P5,,defective,,Package delivery,SMS,ITEM-14 → P5-B,,,,,,answer_key
+ITEM-077,ITEM-077.png,set1,P10,,defective,,HR benefits enrollment,SMS,ITEM-15 → P10-B,,,,,,answer_key
+ITEM-078,ITEM-078.png,set1,P1,,clean,,IT credential re-verification,Email,ITEM-16 → P1-A,,,,,,answer_key
+ITEM-079,ITEM-079.png,set1,P8,,clean,,Vendor bank-detail change,Email,ITEM-17 → P8-A,,,,,,answer_key
+ITEM-080,ITEM-080.png,set1,P9,,clean,,Shared document notification,Email,ITEM-18 → P9-A,,,,,,answer_key
+ITEM-081,ITEM-081.png,set1,P6,,defective,,IT SSO migration,Slack DM,ITEM-19 → P6-B,,,,,,answer_key
+ITEM-082,ITEM-082.png,set1,P4,,clean,,Recruiter outreach,LinkedIn DM,ITEM-20 → P4-A,,,,,,answer_key
+ITEM-083,ITEM-083.png,set2,P4,,clean,,Recruiter outreach,LinkedIn DM,ITEM-01 → P4-A,,,,,,answer_key
+ITEM-084,ITEM-084.png,set2,P6,,clean,,IT SSO migration,Slack DM,ITEM-02 → P6-A,,,,,,answer_key
+ITEM-085,ITEM-085.png,set2,P7,,defective,,Bank fraud alert,Voicemail transcript,ITEM-03 → P7-B,,,,,,answer_key
+ITEM-086,ITEM-086.png,set2,P8,,defective,,Vendor bank-detail change,Email,ITEM-04 → P8-B,,,,,,answer_key
+ITEM-087,ITEM-087.png,set2,P2,,clean,,Executive wire request,Email,ITEM-05 → P2-A,,,,,,answer_key
+ITEM-088,ITEM-088.png,set2,P10,,clean,,HR benefits enrollment,SMS,ITEM-06 → P10-A,,,,,,answer_key
+ITEM-089,ITEM-089.png,set2,P4,,defective,,Recruiter outreach,LinkedIn DM,ITEM-07 → P4-B,,,,,,answer_key
+ITEM-090,ITEM-090.png,set2,P3,,defective,,Job interview scheduling,Email,ITEM-08 → P3-B,,,,,,answer_key
+ITEM-091,ITEM-091.png,set2,P10,,defective,,HR benefits enrollment,SMS,ITEM-09 → P10-B,,,,,,answer_key
+ITEM-092,ITEM-092.png,set2,P9,,defective,,Shared document notification,Email,ITEM-10 → P9-B,,,,,,answer_key
+ITEM-093,ITEM-093.png,set2,P8,,clean,,Vendor bank-detail change,Email,ITEM-11 → P8-A,,,,,,answer_key
+ITEM-094,ITEM-094.png,set2,P1,,clean,,IT credential re-verification,Email,ITEM-12 → P1-A,,,,,,answer_key
+ITEM-095,ITEM-095.png,set2,P2,,defective,,Executive wire request,Email,ITEM-13 → P2-B,,,,,,answer_key
+ITEM-096,ITEM-096.png,set2,P6,,defective,,IT SSO migration,Slack DM,ITEM-14 → P6-B,,,,,,answer_key
+ITEM-097,ITEM-097.png,set2,P3,,clean,,Job interview scheduling,Email,ITEM-15 → P3-A,,,,,,answer_key
+ITEM-098,ITEM-098.png,set2,P1,,defective,,IT credential re-verification,Email,ITEM-16 → P1-B,,,,,,answer_key
+ITEM-099,ITEM-099.png,set2,P5,,clean,,Package delivery,SMS,ITEM-17 → P5-A,,,,,,answer_key
+ITEM-100,ITEM-100.png,set2,P5,,defective,,Package delivery,SMS,ITEM-18 → P5-B,,,,,,answer_key
+ITEM-101,ITEM-101.png,set2,P7,,clean,,Bank fraud alert,Voicemail transcript,ITEM-19 → P7-A,,,,,,answer_key
+ITEM-102,ITEM-102.png,set2,P9,,clean,,Shared document notification,Email,ITEM-20 → P9-A,,,,,,answer_key
+ITEM-103,ITEM-103.png,set3,P4,,defective,,Recruiter outreach,LinkedIn DM,ITEM-01 → P4-B,,,,,,answer_key
+ITEM-104,ITEM-104.png,set3,P5,,defective,,Package delivery,SMS,ITEM-02 → P5-B,,,,,,answer_key
+ITEM-105,ITEM-105.png,set3,P6,,clean,,IT SSO migration,Slack DM,ITEM-03 → P6-A,,,,,,answer_key
+ITEM-106,ITEM-106.png,set3,P9,,clean,,Shared document notification,Email,ITEM-04 → P9-A,,,,,,answer_key
+ITEM-107,ITEM-107.png,set3,P1,,clean,,IT credential re-verification,Email,ITEM-05 → P1-A,,,,,,answer_key
+ITEM-108,ITEM-108.png,set3,P4,,clean,,Recruiter outreach,LinkedIn DM,ITEM-06 → P4-A,,,,,,answer_key
+ITEM-109,ITEM-109.png,set3,P10,,clean,,HR benefits enrollment,SMS,ITEM-07 → P10-A,,,,,,answer_key
+ITEM-110,ITEM-110.png,set3,P6,,defective,,IT SSO migration,Slack DM,ITEM-08 → P6-B,,,,,,answer_key
+ITEM-111,ITEM-111.png,set3,P7,,defective,,Bank fraud alert,Voicemail transcript,ITEM-09 → P7-B,,,,,,answer_key
+ITEM-112,ITEM-112.png,set3,P3,,clean,,Job interview scheduling,Email,ITEM-10 → P3-A,,,,,,answer_key
+ITEM-113,ITEM-113.png,set3,P8,,clean,,Vendor bank-detail change,Email,ITEM-11 → P8-A,,,,,,answer_key
+ITEM-114,ITEM-114.png,set3,P8,,defective,,Vendor bank-detail change,Email,ITEM-12 → P8-B,,,,,,answer_key
+ITEM-115,ITEM-115.png,set3,P10,,defective,,HR benefits enrollment,SMS,ITEM-13 → P10-B,,,,,,answer_key
+ITEM-116,ITEM-116.png,set3,P2,,defective,,Executive wire request,Email,ITEM-14 → P2-B,,,,,,answer_key
+ITEM-117,ITEM-117.png,set3,P1,,defective,,IT credential re-verification,Email,ITEM-15 → P1-B,,,,,,answer_key
+ITEM-118,ITEM-118.png,set3,P3,,defective,,Job interview scheduling,Email,ITEM-16 → P3-B,,,,,,answer_key
+ITEM-119,ITEM-119.png,set3,P9,,defective,,Shared document notification,Email,ITEM-17 → P9-B,,,,,,answer_key
+ITEM-120,ITEM-120.png,set3,P5,,clean,,Package delivery,SMS,ITEM-18 → P5-A,,,,,,answer_key
+ITEM-121,ITEM-121.png,set3,P7,,clean,,Bank fraud alert,Voicemail transcript,ITEM-19 → P7-A,,,,,,answer_key
+ITEM-122,ITEM-122.png,set3,P2,,clean,,Executive wire request,Email,ITEM-20 → P2-A,,,,,,answer_key

@@ -1,0 +1,5 @@
+defect,realism,persuasion,naturalness,deceptiveness
+Expert-Judged Deceptiveness,2.55,0.8,1.85,2.45
+Naturalness,1.25,0.06,2.44,2.12
+Persuasion,0.69,2.44,1.69,1.38
+Realism,0.32,-0.55,-0.09,-0.09

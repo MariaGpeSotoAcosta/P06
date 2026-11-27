@@ -1,0 +1,4 @@
+gen_model,realism,persuasion,naturalness,deceptiveness
+llama3.1:8b,4.88,5.62,5.88,4.88
+phi4-mini:latest,3.93,5.21,3.82,3.32
+qwen3:8b,4.12,5.31,4.62,3.94

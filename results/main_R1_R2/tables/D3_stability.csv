@@ -1,0 +1,7 @@
+,mean_sd,mean_sd,mean_sd,mean_sd,pct_identical,pct_identical,pct_identical,pct_identical
+dimension,deceptiveness,naturalness,persuasion,realism,deceptiveness,naturalness,persuasion,realism
+judge_id,,,,,,,,
+claude-sonnet-5-5,0.23,0.09,0.08,0.12,63.0,84.0,87.0,80.0
+deepseek-flash,0.49,0.35,0.33,0.4,44.0,45.0,44.0,33.0
+gemini-3.6-flash,0.28,0.19,0.17,0.2,68.0,74.0,71.0,67.0
+gpt-5.6-terra,0.36,0.28,0.22,0.25,45.0,55.0,64.0,59.0
